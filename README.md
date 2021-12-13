@@ -6,4 +6,6 @@ This project is focused on the dataset of calls to 311 in the New York City. Spe
 ### Top10.ipynb
 In this file, we analyze the top 10 causes of calls to 311 in NY 10036, with the total amount of incidents of each cause respectively.
 ### Parking.ipynb
+In the second file, we want to understand whether the incident rate of illegal parking is higher in our area than the global. 
+
 
